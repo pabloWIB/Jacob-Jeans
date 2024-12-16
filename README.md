@@ -1,8 +1,8 @@
-<h2 align="center">Diseño Figma: <a href="">Maquetado en Figma</a></h2>
+<h2 align="center">Diseño Figma: <a href="https://www.figma.com/design/dY5UYnagx1Bioo69LisSOr/Jacob-Jeans?node-id=0-1&p=f&t=IgKAI3L2vNrZJxzA-0">Maquetado en Figma</a></h2>
 
 <img src="IMG/hero.jpg">
 
-<h2 align="center">Página: <a href=""></a></h2>
+<h2 align="center">Página: <a href="https://jacob-jeans.vercel.app/">jacobjeans.com</a></h2>
 
 <h2>Tecnologías usadas👨🏻‍💻</h2>
 <br>
